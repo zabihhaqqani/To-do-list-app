@@ -250,8 +250,7 @@ Grocery List
 }
 
 #grocery {
-    padding: 0.25rem;
-    padding-left: 1rem;
+    padding-left: 0.1rem;
     border-radius: 3px;
     border-color: transparent;
     font-size: 1rem;
